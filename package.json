@@ -1,0 +1,19 @@
+{
+  "name": "gulp-jstrans",
+  "version": "1.0.0",
+  "description": "A Gulp plugin that transform JavaScript with UglifyJS's TreeTransformer",
+  "main": "index.js",
+  "scripts": {},
+  "author": "aztack@163.com",
+  "license": "ISC",
+  "dependencies": {
+    "gulp-util": "^3.0.7",
+    "source-map": "^0.5.6",
+    "through2": "^2.0.1",
+    "uglifyjs": "^2.4.10"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-rename": "^1.2.2"
+  }
+}
