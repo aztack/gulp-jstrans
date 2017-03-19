@@ -2,6 +2,11 @@
   "name": "gulp-jstrans",
   "version": "1.0.0",
   "description": "A Gulp plugin that transform JavaScript with UglifyJS's TreeTransformer",
+  "homepage": "https://github.com/aztack/gulp-jstrans",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/aztack/gulp-jstrans.git"
+  },
   "main": "index.js",
   "scripts": {},
   "author": "aztack@163.com",
